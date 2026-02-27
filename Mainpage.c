@@ -11,7 +11,7 @@ int main () {
 
     printf("\n======MENU=======\n");
     printf("1   Activity 1: Sum of an Array\n");
-    printf("2   Unnamed\n");
+    printf("2  Activity 2: Student Records\n");
     printf("3   Unnamed\n");
     printf("4   Unnamed\n");
     printf("5   Exit\n");
@@ -22,7 +22,7 @@ int main () {
     switch (options){
         case 1:  array1();
                  break;
-        case 2:  printf("To Be Announced\n");
+        case 2:  RECORD();
                  break;
         case 3: printf("To Be Announced\n");
                  break;
@@ -47,4 +47,5 @@ int main () {
 
     
 }
+
 
