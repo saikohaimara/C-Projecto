@@ -11,6 +11,8 @@ void array2(void);
 void loginPage(void);
 void hideInput(char *password);
 
+/* Record*/
+void RECORD(void);
 
 
 
